@@ -1,0 +1,6 @@
+{
+	"name": "First Mod",
+	"description": "A song in the Freeplay and one secret song called Doomed.",
+	"restart":false,
+	"color": [170, 0, 255]
+}
